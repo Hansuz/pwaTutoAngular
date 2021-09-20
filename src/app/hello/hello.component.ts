@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { AnyARecord } from 'dns';
 
 @Component({
   selector: 'app-hello',
